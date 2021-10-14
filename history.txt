@@ -1,0 +1,171 @@
+    1  ls -ltrh
+    2  df -kh
+    3  cd /mnt/c/
+    4  ls -ltrh
+    5  locate chi
+    6  sudo apt install mlocate
+    7  locate chi
+    8  df -kh
+    9  ls
+   10  pwd
+   11  git --version sion
+   12  git --version
+   13  pwd
+   14  ls
+   15  pwd
+   16  ls
+   17  cd ..
+   18  pwd
+   19  ls
+   20  cd ..
+   21  ls
+   22  cd mnt
+   23  ls
+   24  cd c
+   25  ls
+   26  cd Users/
+   27  ls
+   28  cd korede/
+   29  ls
+   30  cd Desktop/
+   31  ls
+   32  cd CHINWE_FLASH/
+   33  LS
+   34  ls
+   35  pwd
+   36  cd
+   37  pwd
+   38  cd /mnt/c/Users/korede/Desktop/CHINWE_FLASH
+   39  pwd
+   40  dir
+   41  ls
+   42  cd
+   43  dir
+   44  locate CHINWE
+   45  locate CHINWE_FLASH
+   46  pwd
+   47  --dirname + CHINWE_FLASH
+   48  --dirname +/CHINWE_FLASH
+   49  --dirname + /CHINWE_FLASH
+   50  --dirname+/CHINWE_FLASH
+   51  --dirname + clear
+   52  clear
+   53  
+   54  pwd
+   55  cd
+   56  cd /
+   57  ls
+   58  cd mnt
+   59  ls
+   60  cd c
+   61  ls
+   62  cd Users
+   63  ls
+   64  cd korede/
+   65  ls
+   66  cd Desktop/
+   67  ls
+   68  cd CHINWE_FLASH/
+   69  LS
+   70  ls
+   71  pwd
+   72  ~
+   73  cd ~
+   74  cd -
+   75  cd ~
+   76  cd mnt
+   77  cd /
+   78  cd mnt
+   79  ls
+   80  cd c
+   81  ls
+   82  cd Users
+   83  ls
+   84  cd korede/
+   85  ls
+   86  cd Desktop/
+   87  ls
+   88  cd CHINWE_FLASH/
+   89  cd JOURNEY\ TO\ FULL\ STACK/
+   90  cd ~
+   91  --dirname + /JOURNEY\ TO\ FULL\ STACK/ 
+   92  cd -
+   93  ls
+   94  cd UMUZI_Bootcamp/
+   95  ls
+   96  mkdir git-basic-exercises
+   97  ls
+   98  cd git-basic-exercises/
+   99  ls -a
+  100  git init
+  101  ls -a
+  102  git status
+  103  touch README.md
+  104  ls -a
+  105  git status
+  106  git log
+  107  git add README.md 
+  108  git status
+  109  git commit -m "initial commit"
+  110  git log
+  111  git status
+  112  git reset
+  113  git status
+  114  history 
+  115  git add README.md 
+  116  git status
+  117  man git
+  118  git commit -m "initial commit"
+  119  git config user.email ogo390@gmail.com
+  120  git config user.name valeriechinwe
+  121  git status
+  122  git commit -m "initial commit"
+  123  git status
+  124  git log
+  125  q
+  126  nano README.md 
+  127  cat README.md 
+  128  git status
+  129  git add README.md 
+  130  git status
+  131  git commit -m "second commit"
+  132  git status
+  133  git log
+  134  nano README.md 
+  135  cat README.md 
+  136  git status
+  137  git add README.md 
+  138  git status
+  139  git commit -m "third commit"
+  140  git status
+  141  git log
+  142  git checkout
+  143  8335dbb15f698db6dfb3eda1d65846be6911cf25
+  144  cat README.md 
+  145  q
+  146  git checkout
+  147  git checkout cd176be4f2338007143a98bccf230cbbb93636cb
+  148  cat README.md 
+  149  git checkout main
+  150  git checkout master
+  151  cat README.md 
+  152  git branch
+  153  git branch milkshake-flavours
+  154  git branch
+  155  git checkout milkshake-flavours 
+  156  git branch
+  157  git checkout master
+  158  git branch
+  159  git checkout milkshake-flavours 
+  160  nano milkshakes.md
+  161  git status
+  162  git add milkshakes.md
+  163  git commit -m "added initial flavours"
+  164  git status
+  165  git log
+  166  git checkout master
+  167  git branch
+  168  git branch history
+  169  git log
+  170  git branch
+  171  history > history.txt
